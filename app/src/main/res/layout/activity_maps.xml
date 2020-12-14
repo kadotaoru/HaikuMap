@@ -6,7 +6,7 @@
     android:name="com.google.android.gms.maps.SupportMapFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MapsActivity"
+    tools:context=".model.MapsActivity"
 
     map:cameraTargetLat="36.730028"
     map:cameraTargetLng="137.014307"

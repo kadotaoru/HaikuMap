@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "721753985851",
+    "project_id": "babymaptest",
+    "storage_bucket": "babymaptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721753985851:android:60e665f1230ffa7e2a1d1e",
+        "android_client_info": {
+          "package_name": "to.msn.wings.haikumap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721753985851-u71gvfnt4bab66eln2ts1qbq40qhsfg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "to.msn.wings.haikumap",
+            "certificate_hash": "1bd605e08ea07d0bbc478098c96d59fc92934753"
+          }
+        },
+        {
+          "client_id": "721753985851-85p21crlctk6qt8ns22at4kqm1ej1rc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG8W57mNGq2P-sJ68Xx86yPiwkxw0FxkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721753985851-85p21crlctk6qt8ns22at4kqm1ej1rc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
